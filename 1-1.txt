@@ -1,0 +1,15 @@
+1. What is a terminal and why would we want to use one?
+A terminal is also called a Command Line, and is used as an interface that allows you to access the command line.
+and it is used to provides an efficient interface to access the true power of a computer.
+
+2. What is the protocol that powers the web as we know it? Who invented this (HINT: Not Al Gore) and when?
+the protical is known as HTTP, and it was invented by  Tim Berners-Lee at CERN in 1989.
+
+3. Describe the terms client, server, request and response as they relate to the web.
+A Client is a piece of computer hardware or software that accesses a service made available by a server.
+A Server is a computer program that provides a service to another computer programs.
+A Request is the act of asking for information. 
+A Response is a packet of information sent to the Client in response to their request.
+
+4. JS apps can get complicated very quickly. We need to leverage some modules of existing code  for our projects to stay productive and avoid re-inventing the wheel. What is the website that is a 'central repo' for this?
+GitHub
